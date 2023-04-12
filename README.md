@@ -1,7 +1,5 @@
 # Hi there, I'm Jobins John 👋
 
-![iOS Developer Banner](https://your-banner-image-url.png)
-
 I'm an iOS Developer with a passion for creating high-quality, user-friendly apps. I love working with Swift, SwiftUI, and UIKit. In my spare time, I enjoy learning new technologies and contributing to open-source projects.
 
 ## 🔧 Technologies & Tools
