@@ -2,7 +2,7 @@
 
 Driven by my passion for enhancing user experiences, I specialize in iOS Development, delivering high-quality and user-friendly applications. Swift, SwiftUI, and UIKit are my playgrounds where I innovate and build robust apps. 
 
-In my spare time, my curiosity fuels my journey into new technologies. I also enjoy contributing to open-source projects, strengthening my skills, and adding value to the developer community.
+In my spare time, my curiosity fuels my journey into new technologies, including AWS, which has become an integral part of my skillset. I enjoy exploring the vast capabilities of cloud computing and applying them in my projects. I also continue to contribute to open-source projects, strengthening my skills, and adding value to the developer community.
 
 ## 🚀 My Arsenal 
 
@@ -11,6 +11,7 @@ In my spare time, my curiosity fuels my journey into new technologies. I also en
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-%23007ACC.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
 ![CocoaPods](https://img.shields.io/badge/CocoaPods-%23E05D6F.svg?style=for-the-badge&logo=cocoapods&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## 💹 Dig into My Stats
 
