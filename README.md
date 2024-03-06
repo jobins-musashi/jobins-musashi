@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jobins John 👋</h1>
 <p align="center">
-    Innovative iOS Developer & Product Manager | Swift | SwiftUI | UIKit | AWS | Open-Source Advocate
+    | Swift | SwiftUI | UIKit | AWS | Open-Source Advocate
 </p>
 
 <p align="center">
@@ -23,12 +23,3 @@
 - **Twitter:** [Follow @jobins_john](https://twitter.com/jobins_john)
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/jobinsjohn)
 - **Email:** [hi@jobins.me](mailto:hi@jobins.me)
-
-## 🌟 Connect & Follow My Journey
-
-<p align="center">
-    <a href="https://github.com/jobins-musashi"><img src="https://img.shields.io/github/followers/jobins-musashi?style=social" alt="GitHub followers"></a>
-    <a href="https://twitter.com/jobins_john"><img src="https://img.shields.io/twitter/follow/jobins_john?style=social" alt="Twitter Followers"></a>
-</p>
-
-Join me on my dual-path tech journey on GitHub and Twitter. Whether it's diving deep into code or steering product visions to reality, let's innovate and create amazing things together!
