@@ -13,21 +13,6 @@
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 </p>
 
----
-
-## 🌐 About Me
-
-I'm Jobins John, an iOS Developer and Product Manager with a zeal for crafting seamless user experiences and leading innovative app development projects. My technical toolbox is rich with Swift, SwiftUI, UIKit, and a keen understanding of cloud computing with AWS. 
-
-My role extends beyond development; as a Product Manager, I blend technical acuity with strategic leadership to guide cross-functional teams towards creating impactful and user-centric mobile applications. My journey into AWS and Swift Package Manager has broadened my abilities, enabling me to incorporate cutting-edge technologies and manage dependencies more efficiently.
-
-## 🚀 My Technical and Leadership Arsenal
-
-- **Programming Languages & Frameworks:** Swift, SwiftUI, UIKit
-- **Development Tools:** Xcode, CocoaPods, Swift Package Manager
-- **Cloud Computing:** AWS
-- **Project Management:** Agile, Scrum, Lean methodologies
-- **Product Strategy:** Market analysis, User experience design, Feature prioritization
 
 ## 💹 My GitHub Stats
 
